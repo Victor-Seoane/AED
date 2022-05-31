@@ -6,8 +6,8 @@
 
 int main() 
 {  
-	// Tipo de dato: Booleano - Operaciones
-	assert(true);
+    // Tipo de dato: Booleano - Operaciones
+    assert(true);
     assert(not false); 
     assert(true or false);
     assert(true and true);
