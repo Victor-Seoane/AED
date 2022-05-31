@@ -31,7 +31,7 @@ int main()
     assert('A'*'B' == 4290);
     assert('A'/'B' != 4290);
     assert('a' + 'b' > 194 and 'a' + 'b' < 196);
-	assert('C' - 2 == 'A');
+    assert('C' - 2 == 'A');
     assert('C' + 2 == 'E');
     
     // Tipo de dato: Entero - Operaciones
